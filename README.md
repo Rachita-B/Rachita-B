@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rachita Bhasin</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<picture> <img align="right" alt="coding"  style="border-radius: 60px;" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" ></picture>
+<picture> <img align="right" alt="coding"  style="border-radius: 60px;" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" ></picture>
 
 <br>
 <br>
