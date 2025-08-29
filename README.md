@@ -9,7 +9,7 @@
 <br>
 - 📫 How to reach me **rachitabhasin99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bm-NA6mNE_yOqwrOXFpRUHmhNUp4mREs/view](https://drive.google.com/file/d/1Bm-NA6mNE_yOqwrOXFpRUHmhNUp4mREs/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12-nbBIiPKy85dKGSZQoJKFbu8i24-kAB/view?usp=sharing)
 
 - ⚡Fact about me **Friendly Nature**
 
